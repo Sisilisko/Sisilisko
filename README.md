@@ -2,8 +2,6 @@
 
 Well hello everyone reading this!
 
-I'm somewhat noob/beginner (for now), so don't expect anything great from me.
-
 ## My main interests in programming are:
   - Embedded systems and system programming. 
   - Linux and other Unix like operating systems.
@@ -15,13 +13,11 @@ Also very ambitious.
 ## Few current projects of mine:
 -  Very secret project, will publish it when time is right. 
 -  Open source grand strategy game based on repository named "Symphony of empires".
--  And... Well to get a job.
 
 ## My favourite programming languages:
 - C
 - C++
 - Nim (perhaps the most underrated programming language ever!)
-
 
 ## Other things about me:
 
